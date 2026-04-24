@@ -1,0 +1,66 @@
+/* 全局样式变量 - PLC编程助手 */
+
+/* 主题色 */
+$primary-color: #00BCD4;      // 青色主色
+$primary-light: #4DD0E1;        // 浅青色
+$primary-dark: #0097A7;        // 深青色
+
+/* 背景色 */
+$bg-page: #E8EEF2;             // 页面背景
+$bg-card: #FFFFFF;             // 卡片背景
+$bg-panel: #F5F7F9;            // 面板背景
+$bg-input: #F0F2F5;            // 输入框背景
+
+/* 文字色 */
+$text-primary: #37474F;        // 主要文字
+$text-secondary: #607D8B;     // 次要文字
+$text-disabled: #B0BEC5;       // 禁用文字
+$text-white: #FFFFFF;          // 白色文字
+
+/* 边框色 */
+$border-color: #E0E6EB;        // 边框色
+$border-light: #ECEFF1;       // 浅边框
+
+/* 状态色 */
+$success-color: #4CAF50;       // 成功/能流
+$warning-color: #FF9800;       // 警告
+$error-color: #F44336;          // 错误
+$info-color: #2196F3;          // 信息
+
+/* 元件色 */
+$ladder-power: #4CAF50;        // 能流色
+$ladder-wire: #37474F;         // 连线色
+$ladder-element-bg: #FFFFFF;   // 元件背景
+$ladder-element-border: #78909C; // 元件边框
+
+/* 阴影 */
+$shadow-light: 0 2rpx 8rpx rgba(0, 0, 0, 0.08);
+$shadow-medium: 0 4rpx 12rpx rgba(0, 0, 0, 0.12);
+$shadow-heavy: 0 8rpx 24rpx rgba(0, 0, 0, 0.16);
+
+/* 间距 */
+$spacing-xs: 8rpx;
+$spacing-sm: 16rpx;
+$spacing-md: 24rpx;
+$spacing-lg: 32rpx;
+$spacing-xl: 48rpx;
+
+/* 圆角 */
+$radius-sm: 8rpx;
+$radius-md: 12rpx;
+$radius-lg: 16rpx;
+$radius-full: 9999rpx;
+
+/* 字体大小 */
+$font-xs: 22rpx;
+$font-sm: 24rpx;
+$font-md: 28rpx;
+$font-lg: 32rpx;
+$font-xl: 36rpx;
+$font-xxl: 44rpx;
+
+/* 梯形图网格 */
+$grid-size: 40rpx;              // 网格大小
+$element-height: 80rpx;         // 元件高度
+$element-min-width: 120rpx;     // 元件最小宽度
+$network-gap: 40rpx;           // 网络间距

@@ -1,0 +1,30 @@
+{
+  "name": "PLC编程助手",
+  "appid": "__UNI__PLC_ASSISTANT",
+  "description": "掌上移动PLC梯形图编程与仿真工具",
+  "versionName": "1.0.0",
+  "versionCode": "100",
+  "transformPx": false,
+  "h5": {
+    "title": "PLC编程助手",
+    "router": {
+      "mode": "hash"
+    }
+  },
+  "mp-weixin": {
+    "appid": "",
+    "setting": {
+      "urlCheck": false,
+      "es6": true,
+      "postcss": true,
+      "minified": true
+    },
+    "usingComponents": true,
+    "permission": {
+      "scope.userLocation": {
+        "desc": "你的位置信息将用于提供更好的服务"
+      }
+    },
+    "requiredPrivateInfos": ["getLocation"]
+  }
+}

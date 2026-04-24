@@ -1,0 +1,27 @@
+# uni-app
+node_modules/
+dist/
+unpackage/
+*.log
+*.lock
+
+# IDE
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build
+*-backup/
+*-original/
+
+# Environment
+.env.local
+.env.*.local
