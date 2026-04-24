@@ -1243,5 +1243,3 @@ export class CanvasManager {
   }
 }
 
-// 导出常量供外部使用
-export { ELEMENT_WIDTH, ELEMENT_HEIGHT, RAIL_X, NETWORK_START_Y, ELEMENT_SPACING, GRID_SIZE }
